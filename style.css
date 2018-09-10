@@ -1,0 +1,25 @@
+<footer{
+	border: 1px solid green;
+	margin-top: 20px;}
+
+		#main{
+			border: 1px solid blue;
+			margin-top: 20px;
+			height: 400px;}
+		
+		#head{border: 1px solid red;
+			margin-bottom: 20px;
+			display: flex;
+			height: 100px;
+			width: 93.7%}
+
+}
+ul{
+	text-align: right;
+}	
+ul li{
+	list-style-type: none;
+	display: inline-block;
+	float: right;
+
+}
